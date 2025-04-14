@@ -601,8 +601,8 @@ SMODS.Joker{
         name = 'Star',
         text = {
           'A Star, What did you expect?',
-          'our star has a core temp. of 100 Million',
-          'Degrees Celcius:{X:chips,C:white}+#1# Chips{}',
+          'our star has a core temp. of 100 Million ',
+          'Degrees Celcius: {X:chips,C:white}+#1# Chips{}',
           
         },
         --[[unlock = {
@@ -1111,8 +1111,8 @@ SMODS.Joker{
         name = 'Top Quark',
         text = {
           'Has a Mass of 173 GeV/c2!!',
-          'Every Round this Card Gets a prmanent Boost,',
-          'of {X:Xmult,C:white}X#1#{} Mult'
+          'Every Hand this Card Gets a prmanent Boost,',
+          'of X5 Mult Current Mult:{X:Xmult,C:white}X#1#{}'
         },
         --[[unlock = {
             'Be {C:legendary}cool{}',
@@ -1172,7 +1172,7 @@ SMODS.Joker{
           'The Myth The Legend THE ONLY',
           'PENTAQUARK! The first Man-Made,',
           'Subatomic Particle. Doubles Its Mult',
-          'EVERY ROUND. Current Mult:',
+          'EVERY HAND. Current Mult:',
           '{X:Xmult,C:white}X#1#{}}'
         },
         --[[unlock = {
@@ -1597,7 +1597,7 @@ SMODS.Joker{
           'of the Weak Force.',
           'Mass: 80 GeV!!!!',
           'converts money into mult',
-          '{X:mult ,C:white}+#1#{} -{C:money}10${}'
+          ' +100 Mult -10$'
         },
         --[[unlock = {
             'Be {C:legendary}cool{}',
@@ -1658,7 +1658,7 @@ SMODS.Joker{
           'of the Weak Force.',
           'Mass: 80 GeV!!!!',
           'converts mult into money',
-          '{X:mult ,C:white}-#1#{} +{C:money}10${}'
+          '-100 Mult +10$'
         },
         --[[unlock = {
             'Be {C:legendary}cool{}',
